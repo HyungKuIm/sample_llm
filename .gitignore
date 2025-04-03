@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경
+.venv/
+venv/
+
+# 환경 설정 파일
+.env
+.env.*
+
+# VS Code 설정 (원하면 제거해도 돼)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 로그 파일
+*.log
+
+# 파이썬 패키징 관련
+build/
+dist/
+*.egg-info/
+
+# pip wheel cache
+*.whl
+
+# pyenv
+.python-version
